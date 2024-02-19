@@ -3,8 +3,7 @@
   
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Welcome+To+My+Profile!)](https://git.io/typing-svg)
+
 
 💻 3rd Year Computer Science Student at TMU
 
