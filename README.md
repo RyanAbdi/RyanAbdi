@@ -2,9 +2,9 @@
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://d3k81ch9hvuctc.cloudfront.net/company/UMLLyQ/images/21fe73a7-46b4-44c4-be86-9fd963961894.gif">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=400&height=120&lines=++Hi!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=500&height=120&lines=++Welcome+To+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=400&height=120&lines=++Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 
 💻 3rd Year Computer Science Student at TMU
