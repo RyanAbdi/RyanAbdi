@@ -2,10 +2,8 @@
   
 </a>
 
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-</div>
 
 💻 3rd Year Computer Science Student at TMU
 
