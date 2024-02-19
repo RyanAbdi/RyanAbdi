@@ -1,9 +1,10 @@
 <a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://d3k81ch9hvuctc.cloudfront.net/company/UMLLyQ/images/21fe73a7-46b4-44c4-be86-9fd963961894.gif">
   
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Ryan+Abdi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 💻 3rd Year Computer Science Student at TMU
 
@@ -107,7 +108,7 @@
 <div align="center">
   <h1> How to Contact me<h1>
     
-  <a href="https://www.linkedin.com/in/ryanabdi/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ryan-abdi/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
   <a href="mailto:ryanabdi32@gmail.com" target="top" rel="noopener noreferrer">
