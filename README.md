@@ -9,7 +9,7 @@
 
 💻 4th Year Computer Science Student at TMU
 
-2nd Account https://github.com/Ryan-Abdi
+2nd Account / Work account https://github.com/Ryan-Abdi
 
 <hr>
 
