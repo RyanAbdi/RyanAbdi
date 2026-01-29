@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=400&height=120&lines=++Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 
-💻 4th Year Computer Science Student at TMU
+💻 5th Year Computer Science Student at TMU
 
-2nd Account / Work account https://github.com/Ryan-Abdi
 
 <hr>
 
